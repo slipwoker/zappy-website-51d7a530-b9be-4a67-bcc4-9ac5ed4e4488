@@ -1,0 +1,88 @@
+# אוסי הורביץ - לצמוח חזק מבפנים — Generative Engine Optimization Map
+
+> A professional personal development and mental coaching practice offering a range of services including personal mental coaching, lectures, workshops, and parenting guidance. The brand emphasizes knowledge sharing through articles published under each service category, positioning the practitioner as a thought leader and expert in their field. The site needs to reflect the brand's logo colors and provide a structured, content-rich platform.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+רוצה לשנות את חייך מהשורש? אוסי הורביץ מציע קואצ&#39;ינג מנטלי אישי, סדנאות והרצאות שיעצימו אותך לצמוח חזק מבפנים. התחל את המסע שלך היום.
+
+### שירותים
+https://example.com/services
+קואצ&#39;ינג אישי מוסמך, הרצאות מעוררות השראה, סדנאות פיתוח אישי והדרכת הורים — כל הכלים שתצטרך כדי לפרוץ מגבלות ולהגיע למלוא הפוטנציאל שלך.
+
+### מאמרים
+https://example.com/articles
+מאמרים מקצועיים בתחום הקואצ&#39;ינג ופיתוח האישיות, כתובים על ידי מומחה מוסמך. הרחב את הדעת, קבל כלים פרקטיים וקח את הצמיחה שלך צעד קדימה.
+
+### אודות
+https://example.com/about
+אוסי הורביץ הוא קואצ&#39;ר אישי מוסמך עם ניסיון עשיר בפיתוח אישיות, מנטליות וחוסן נפשי. גלה את הסיפור, הערכים והגישה הייחודית שהפכו אותו למוביל בתחומו.
+
+### צור קשר
+https://example.com/contact
+רוצה לקבוע פגישת קואצ&#39;ינג אישית, להזמין הרצאה לארגון או לברר על סדנאות? צור קשר עם אוסי הורביץ עכשיו ותעשה את הצעד הראשון לשינוי אמיתי בחייך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אוסי הורביץ - לצמוח חזק מבפנים
+A professional personal development and mental coaching practice offering a range of services including personal mental coaching, lectures, workshops, and parenting guidance. The brand emphasizes knowledge sharing through articles published under each service category, positioning the practitioner as a thought leader and expert in their field. The site needs to reflect the brand's logo colors and provide a structured, content-rich platform.
+
+## Services/Products
+- אימון אישי מנטלי
+- הרצאות
+- סדנאות
+- הדרכות הורים
+
+## Target Audience
+- אנשי מקצוע צעירים בצמיחה
+- משני קריירה
+- מנהיגות נשים
+
+## Industry
+coaching, training, personal development
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
